@@ -14,5 +14,5 @@ To use the code in this repository, you will need to have the following software
 To get started, clone this repository and navigate to the directory:
 
 ```bash
-gh repo clone TechShang/ImageandVideoReading
+git clone https://github.com/TechShang/ImageandVideoReading.git
 cd ImageandVideoReading
