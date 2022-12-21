@@ -14,5 +14,5 @@ To use the code in this repository, you will need to have the following software
 To get started, clone this repository and navigate to the directory:
 
 ```bash
-git clone https://github.com/USERNAME/image-video-reading-python-opencv.git
-cd image-video-reading-python-opencv
+gh repo clone TechShang/ImageandVideoReading
+cd ImageandVideoReading
